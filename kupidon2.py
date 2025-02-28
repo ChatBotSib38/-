@@ -3,9 +3,9 @@ import time
 import logging
 
 # Замените 'YOUR_TELEGRAM_BOT_TOKEN' на токен вашего бота
-BOT_TOKEN = '8011928219:AAEIlb3R6iJjG2QJpxzYbzjBKPcGGIua8dg'
+BOT_TOKEN = 'Вот сдесь токен вашего бота'
 # Замените 'YOUR_ADMIN_ID' на ID администратора
-ADMIN_ID = 7127764763
+ADMIN_ID = YOUR_ADMIN_ID
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
